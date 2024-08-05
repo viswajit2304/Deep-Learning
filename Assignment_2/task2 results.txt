@@ -1,0 +1,15 @@
+learning_rate = 0.001
+num_epochs = 20
+num_feature_maps_cl2 = 5 
+
+Train accuracy: 83.70%
+Validation accuracy: 60.80%
+Test accuracy: 56.00%
+
+learning_rate = 0.001
+num_epochs = 20
+num_feature_maps_cl2 = 4 
+
+Train accuracy: 81.55%
+Validation accuracy: 58.40%
+Test accuracy: 59.20%
